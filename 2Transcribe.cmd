@@ -1,0 +1,1 @@
+whisper audio.wav --model large --task translate --output_format srt

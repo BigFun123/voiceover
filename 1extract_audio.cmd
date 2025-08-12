@@ -1,0 +1,1 @@
+ffmpeg -i ./sources/x-downloader.com_QpsbkR.mp4 -vn -acodec pcm_s16le -ar 16000 india1/audio.wav

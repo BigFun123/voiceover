@@ -1,0 +1,9 @@
+# Suggested requirements. Some are heavy - install the ones you need.
+ffmpeg-python
+openai-whisper
+numpy<2
+pyttsx3
+# Optional, high-quality local TTS (Coqui)
+TTS
+# Optional: Wav2Lip is a separate repo; follow its install instructions
+# Wav2Lip requirements not listed here because it requires separate model checkpoints and setup
